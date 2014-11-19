@@ -1,0 +1,29 @@
+{
+  "name": "fb-cli",
+  "version": "1.1.0",
+  "description": "fb chat cmd interce",
+  "main": " ",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^1.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Example111/fb-cli.git"
+  },
+  "author": "Marian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Example111/fb-cli/issues"
+  },
+  "homepage": "https://github.com/Example111/fb-cli"
+}
